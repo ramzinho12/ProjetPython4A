@@ -7,14 +7,18 @@ Ce guide offre un aperçu complet de la création d'un jeu Puissance 4 en Python
 Pour débuter, assurez-vous que :
 
 1. Python est installé sur votre appareil.
-2. **Configuration graphique :** Le projet inclut des ressources visuelles clés (image3, image4, image5) dans son dossier. Modifiez les chemins d'accès dans `PROJET PYTHON PUISSANCE 4.py` de cette manière :
+2. Dash pour les analyses statistiques. Installez-les via pip :
+   ```python
+    pip install pygame dash
+    ```
+4. **Configuration graphique :** Le projet inclut des ressources visuelles clés (image3, image4, image5) dans son dossier. Modifiez les chemins d'accès dans `PROJET PYTHON PUISSANCE 4.py` de cette manière :
 
     ```python
     background_image = pygame.image.load("votre/chemin/vers/image3")
     ```
     Adaptez "votre/chemin/vers/image3" au chemin exact sur votre système.
 
-3. **Démarrage de l'Application :** Ouvrez `code_serveur.py` et `code_client.py`. Lancez d'abord le serveur, puis le client pour une communication optimale entre les deux.
+5. **Démarrage de l'Application :** Ouvrez `code_serveur.py` et `code_client.py`. Lancez d'abord le serveur, puis le client pour une communication optimale entre les deux.
 
 ## Fonctionnalités Principales
 
