@@ -7,7 +7,7 @@ Ce guide offre un aperçu complet de la création d'un jeu Puissance 4 en Python
 Pour débuter, assurez-vous que :
 
 1. Python est installé sur votre appareil.
-2. Dash pour les analyses statistiques. Installez-les via pip :
+2. Pygame pour l'interface et Dash pour les analyses statistiques. Installez-les via pip :
    ```python
     pip install pygame dash
     ```
