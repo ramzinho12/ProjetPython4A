@@ -1,5 +1,3 @@
-Pour améliorer votre README, je vous propose une structure claire et attrayante, intégrant toutes les informations essentielles pour bien démarrer avec votre projet Puissance 4 en Python. Voici une version enrichie et organisée :
-
 ---
 
 # Puissance 4 en Python avec Interface Futuriste
