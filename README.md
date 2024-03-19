@@ -1,4 +1,3 @@
-Votre README est déjà bien formulé, clair et engageant. Voici la version corrigée avec quelques ajustements mineurs pour une perfection linguistique et stylistique, garantissant qu'il soit exempt de fautes.
 
 ---
 
@@ -55,4 +54,4 @@ Embarquez dans ce voyage vers l'inconnu. Avec **Puissance 4 en Python avec Inter
 
 ---
 
-Cette révision apporte principalement des modifications mineures, telles que la standardisation de la capitalisation et l'uniformisation de la présentation des listes pour une cohérence stylistique. Elle veille également à respecter les conventions typographiques françaises, comme l'emploi de l'espace avant les signes de ponctuation doubles.
+
