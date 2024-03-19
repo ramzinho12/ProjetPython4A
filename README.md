@@ -1,6 +1,6 @@
 ---
 
-# Puissance 4 en Python avec Interface Futuriste : Redéfinissez le Divertissement Stratégique
+# "Puissance 4 en Python avec Interface Futuriste : Redéfinissez le Divertissement Stratégique"
 
 Plongez au cœur d'une révolution ludique avec notre dernière création : **une version futuriste du jeu classique Puissance 4**, conçue pour transcender votre expérience de divertissement. Utilisant **Python, Pygame pour l'interface utilisateur, et Dash pour l'analyse statistique**, ce jeu représente bien plus qu'une simple distraction ; c'est une invitation à explorer une nouvelle dimension du divertissement.
 
